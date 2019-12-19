@@ -1,3 +1,5 @@
+Confirmed working with Ruby v2.4.1
+
 # Vending Machine Tracker
 
 We're developing an application to track vending machines across the city. This will test your ability to set up and test many-to-many relationships and access attributes and methods through those relationships.
